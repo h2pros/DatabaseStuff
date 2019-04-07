@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\H2Pros\H2Pros\bin\Debug\netcoreapp2.1\H2Pros.deps.json
+C:\Users\user\source\repos\H2Pros\H2Pros\bin\Debug\netcoreapp2.1\H2Pros.runtimeconfig.json
+C:\Users\user\source\repos\H2Pros\H2Pros\bin\Debug\netcoreapp2.1\H2Pros.runtimeconfig.dev.json
+C:\Users\user\source\repos\H2Pros\H2Pros\bin\Debug\netcoreapp2.1\H2Pros.dll
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.csprojAssemblyReference.cache
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.AssemblyInfo.cs
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\H2Pros\H2Pros\bin\Debug\netcoreapp2.1\H2Pros.pdb
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.dll
+C:\Users\user\source\repos\H2Pros\H2Pros\obj\Debug\netcoreapp2.1\H2Pros.pdb
